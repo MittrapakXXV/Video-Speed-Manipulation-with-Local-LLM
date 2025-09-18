@@ -18,4 +18,4 @@ ollama run llama2
 ```
 
 Done!
-Note: LLM response speed will depend on your preferred LLM model and PC hardware specifications.
+(Note: LLM response speed will depend on your preferred LLM model and PC hardware specifications.)
